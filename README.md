@@ -6,6 +6,10 @@ Example application of an event-driven aws serverless architecture biuld with aw
 
 ![architecture diagram](./order-delivery.drawio.png)
 
+## Slides
+
+[Slides - Serverless Apps Workshop](./Serverless%20Apps%20Workshop.pdf)
+
 ## Features
 
 - Every get request to `/order` generates an item in the database
